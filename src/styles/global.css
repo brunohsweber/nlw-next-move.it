@@ -57,3 +57,7 @@ a {
 
   color: inherit;
 }
+
+svg#icon-close:hover path {
+  fill: white;
+}
